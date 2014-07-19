@@ -212,12 +212,114 @@ Yilmaz
 # Engineering Management
 
 ## Engineering Manager
+* Basic Business Operations
+	* Demonstrates understanding of business processes and the implications for changing them.
+	* Builds scalable processes for team.
+	* Demonstrates knowledge of how things work within Technology and understands how they work across the Company.
+	* Communicates effectively across organizational boundaries. 
+	* Considers cost impact and constraints in planning and execution.
+* 1:1 Communication
+	* Listens effectively and understands the other person’s point of view.
+	* Effectively clarifies and summarizes what is being said.
+	* Selects the right time and place for meaningful conversations.
+	* Expresses self in a clear and succinct way.
+	* Invites critique and resolves conflicts
+	* Tests assumptions and does not jump to conclusions.
+	* Effectively communicates with manager, peers, reports and customers.
+* Independent Thinking and Judgment
+	* Takes a considered stand on important issues within context of greater strategic and business priorities.
+	* Strongly advocates for both the internal and external customer.
+	* Pushes back on unreasonable demands.
+	* Anticipates potential problems / opportunities and pro-actively suggests alternative approaches.
+	* Makes timely decisions within scope of responsibilities.
+	* Takes calculated risks.
+* Team Facilitation
+	* Demonstrates a clear sense self awareness.
+	* Plans and facilitates effective meetings.
+	* Organizes information for team consumption in a clear and concise manner.
+	* Balances the need for open discussion with decisive action.
+	* Accepts feedback in an open and non-defensive manner; assumes noble intentions from peers' critique
+* Managing High Performance
+	* Sets clear individual goals with employees that are in line with the Technology Group and Company vision.
+	* Facilitates the creation and implementation of development plans.
+	* Provides coaching through objective, actionable feedback on a regular basis.
+	* Celebrates and recognizes outstanding individual and team performance.
+	* Confronts and deals with serious performance issues in a structured and timely fashion.	
+* Interviewing and Hiring
+	* Manages the interviewing and hiring process in a timely fashion.
+	* Demonstrates skillful resume analysis.
+	* Demonstrates awareness and understanding of the key roles on an interviewing team.
+	* Applies behavioral interviewing techniques.
+	* Identifies and selects potential hires based on a the candidate’s value match with Company.
+	* Sets appropriate level of expectations for new hires.
 
 ## Director of Engineering
 
+All of the above, plus:
+
+* Business Operations
+	* Demonstrates a comprehensive understanding of organizational and business processes.
+	* Includes appropriate budget and other financial factors into planning and decision making.
+	* Builds strong partnerships with key business stakeholders.
+* ￼1:1 Communication
+	* Leverages effective working relationships on an individual basis to appropriately influence and coach others.
+	* Maintains effective 1:1 communications skills in challenging and stressful situations.
+* ￼Independent Thinking and Judgment
+	* Actively encourages calculated risk-taking.
+	* Considers both customer and business line perspective to ideas and proposals.
+	* ￼Supports independent thinking and action.
+* Team Facilitation
+	* ￼Actively leads team by fostering participation and interaction by all the members.
+	* Facilitates inter and intra team conflicts to reasonable conclusions.
+* Managing High Performance
+	* Ensures all team members are focused, developing and contributing to the success of the organization.
+	* Leverages development planning for both individual and overall team performance.
+* ￼Interviewing and Hiring
+	* ￼Balances technical skills with organizational fit to guide hiring decisions.
+
 ## VP of Engineering ##
 
+All of the above, plus:
 
+* Business Savvy
+	* Applies a comprehensive understand of the business and technology to all areas of responsibility.
+	* Builds relationships and credibility with the business units through execution
+	* Drives decisions and associated actions taking into account all the relevant aspects of the business.
+	* Goes beyond individual domain knowledge to gain a comprehensive understanding of online retail, merchandising, logistics and innovative new technologies.
+	* Applies business & domain acumen to ensure teams are focused on the right things.
+	* Takes into account cross-functional implications of directives and decisions.
+	* Makes appropriate trade-offs between financial, technology and business requests.
+* Strategy Development
+	* Enables business goals through technology and organizational strategies that inspire innovation.
+	* Thinks and acts as a business owner would.
+	* Demonstrates a comprehensive understanding of the overall business strategy.
+	* Integrates strategies and plans with business goals.
+	* Collaborates with appropriate leaders and team members to build commitment to strategies.
+	* Challenges teams to engage in creative approaches
+	* Empowers the business by driving automation and using technology to gain efficiency
+* Leading Change
+	* Builds confidence in a shared vision for improvements in products and services in an energizing way.
+	* Clearly communicates the purpose and vision of major changes.
+	* Continuously drives for improvement.
+	* Demonstrates a fearlessness and willingness to let go of practices and procedures when they are less than optimum.
+	* Prepares people for both the technical and business changes and the associated cultural implications.
+	* Openly confronts initiatives and projects that are moving in the wrong direction.
+* Building Teams
+	* Empower teams to achieve their goals through maximum appropriate autonomy.
+	* Facilitates the creation of plans that make the strategies real.
+	* Hires / appoints team leaders that embrace company and team core values.
+	* Consistently clarifies team goals and their underlying intent.
+	* Fosters cross-functional interaction and cooperation.
+	* Ensures that leaders deal with conflict in an open and constructive manner.
+	* Rewards and recognizes outstanding performance, balancing individual and team efforts.
+* Operations and Execution
+	* Focuses resources on the critical priorities at the right time that deliver the best possible results.
+	* Aligns personal and team resources to deliver on commitments to exceeds expectations.
+	* Establishes metrics that ensure people and teams are collaborating effectively
+	* Fosters the creation and implementation of adaptable processes.
+	* Balances short and long term technical / business needs.
+	* Makes timely decisions based on well-informed analysis, evidence, and business implications.
+	* Models a mentality of timely, direct and accurate communication of critical issues.
 
 # TODO #
 
